@@ -1,6 +1,6 @@
 ﻿using System;
 
-class CombineArraysExample
+class davaleba4_2_2
 {
     static void Main()
     {
